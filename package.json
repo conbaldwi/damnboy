@@ -1,0 +1,8 @@
+{
+  "name": "meow-meow",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "Just a normal cat picture, nothing to see here.",
+  "private": true,
+  "license": "MIT"
+}
